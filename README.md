@@ -6,9 +6,9 @@ A Spring Boot REST application that inserts records into a MySQL dataset and que
 
 | Item | URL |
 |------|-----|
-| Live application | `<add your deployed URL>` |
-| Swagger UI | `<add your deployed URL>/swagger-ui/index.html` |
-| Loom demo | `<add your Loom link>` |
+| Live application | `https://dashboard.render.com/web/srv-db8cqheq1p3s73adapt0` |
+| Swagger UI | `https://dynamic-json-operator.onrender.com/swagger-ui/index.html` |
+| Loom demo | `https://www.loom.com/share/ac7900e016264dd2aa61abab5960aae0` |
 
 ## Tech Stack
 
